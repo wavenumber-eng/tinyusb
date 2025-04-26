@@ -241,8 +241,14 @@ def get_a_dep(d):
     # Init git deps if not existed
     if not p.exists():
         p.mkdir(parents=True)
+       
+        print(f'{p} does not exist... fetching dep')
         run_cmd(f"{git_cmd} init")
         run_cmd(f"{git_cmd} remote add origin {url}")
+       
+        print(f'fetching {commit} from {url}')
+        run_cmd(f"{git_cmd} fetch --depth 1 origin {commit}")
+        run_cmd(f"{git_cmd} checkout FETCH_HEAD")
 
     # Check if commit is already fetched
     result = run_cmd(f"{git_cmd} rev-parse HEAD")

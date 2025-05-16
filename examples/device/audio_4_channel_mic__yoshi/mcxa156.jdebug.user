@@ -1,0 +1,24 @@
+
+
+OpenDocument="adxl355.c", FilePath="C:/work/wavenumber/tinyusb/examples/device/audio_4_channel_mic__yoshi/src/adxl355.c", Line=121
+OpenDocument="startup_MCXA156.S", FilePath="C:/work/wavenumber/tinyusb/hw/mcu/nxp/mcux-sdk/devices/MCXA156/gcc/startup_MCXA156.S", Line=138
+OpenDocument="main.c", FilePath="C:/work/wavenumber/tinyusb/examples/device/audio_4_channel_mic__yoshi/src/main.c", Line=0
+OpenDocument="clock_config.c", FilePath="C:/work/wavenumber/tinyusb/hw/bsp/mcx/boards/frdm_mcxa156/clock_config.c", Line=441
+OpenDocument="fsl_spc.c", FilePath="C:/work/wavenumber/tinyusb/hw/bsp/mcx/drivers/spc/fsl_spc.c", Line=843
+OpenDocument="fsl_port.h", FilePath="C:/work/wavenumber/tinyusb/hw/mcu/nxp/mcux-sdk/drivers/port/fsl_port.h", Line=353
+OpenDocument="fsl_reset.h", FilePath="C:/work/wavenumber/tinyusb/hw/mcu/nxp/mcux-sdk/devices/MCXA156/drivers/fsl_reset.h", Line=210
+OpenDocument="fsl_clock.c", FilePath="C:/work/wavenumber/tinyusb/hw/mcu/nxp/mcux-sdk/devices/MCXA156/drivers/fsl_clock.c", Line=246
+OpenDocument="pin_mux.c", FilePath="C:/work/wavenumber/tinyusb/hw/bsp/mcx/boards/frdm_mcxa156/pin_mux.c", Line=52
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Registers 1", DockArea=RIGHT, x=0, y=1, w=300, h=611, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, FilteredItems=[], RefreshRate=1
+OpenWindow="Source Files", DockArea=LEFT, x=0, y=0, w=705, h=574, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=0, w=300, h=217, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Memory 1", DockArea=BOTTOM, x=1, y=0, w=1113, h=586, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, EditorAddress=0x0
+OpenWindow="Watched Data 1", DockArea=LEFT, x=0, y=1, w=705, h=254, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Terminal", DockArea=BOTTOM, x=0, y=0, w=1446, h=586, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+SmartViewPlugin="", Page="", Toolbar="Hidden", Window="SmartView 1"
+TableHeader="Source Files", SortCol="File", SortOrder="DESCENDING", VisibleCols=["File";"Status";"Size";"#Insts";"Path"], ColWidths=[282;100;100;100;100]
+TableHeader="Power Sampling", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Registers 1", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Description"], ColWidths=[100;144;329]
+TableHeader="Watched Data 1", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Refresh"], ColWidths=[104;607;104;100]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
